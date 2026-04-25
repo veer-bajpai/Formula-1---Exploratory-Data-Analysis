@@ -127,8 +127,7 @@ f1-eda/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/f1-eda.git
-cd f1-eda
+git clone https://github.com/veer-bajpai/Formula-1---Exploratory-Data-Analysis
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
